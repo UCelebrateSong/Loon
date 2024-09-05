@@ -1,7 +1,7 @@
 # Loon
 个人自用Loon配置，主体配置来源于可爱的可莉，根据自己的需求做了细微改动
 
-[*配置的使用方法*](https://t.me/c/1653179696/147)
+[*配置的使用方法*](https://t.me/ScriptCollectionForMyself/147)
 
 特别鸣谢：
 
